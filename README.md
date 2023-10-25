@@ -8,4 +8,4 @@ Opening a browser tab to navigate to the router management page, signing in, cli
 
 I also plan to add a few more features such as checking the uptime, rebooting the router, and checking active devices.
 
-Please let me know if you find any issues or have any suggestions.. Thank you!
+Please let me know if you find any issues or have any suggestions.. Thank you!!
