@@ -1,13 +1,13 @@
-# Configuring TP-Link WR740N Router through PowerShell
+# Configuring TP-Link WR740N Router from PowerShell
 
-A personal project to make changes to my wifi router configuration through PowerShell.
+This is a personal project to update my wifi router’s configuration from PowerShell. 
 
-It all started when my kid kept watching too much YouTube on their mobile device. I needed a way to block YouTube for few minutes on the device each time.
+I wanted a way to quickly block YouTube for a few minutes on my kid's mobile device whenever needed. 
 
-The router provides options to setup access control through rules and schedules however updating the access rule schedule every single time from the router management page was very tedious process. 
+Though the router provides options to set up access control through rules and schedules, it is a very tedious process. 
 
-Hence I have created this script to automate the process using Curl allowing me to update the schedule in a jiffy.
+So I wrote this script to automate the process using Curl. 
 
-I also plan to add a few more features such as checking the uptime, rebooting the router, and checking active devices.
+I plan to add a few more features such as checking the router uptime, rebooting it, and checking active devices. 
 
-You are welcome to use the script as you wish. Pull requests are welcome as well. Alternatively you can open an issue if you find any. Thank you!
+You are welcome to use the script as you wish. Pull requests are welcome as well. Alternatively, you can open an issue if you find any. Thank you!
