@@ -2,7 +2,7 @@
 
 A personal project to make changes to my wifi router configuration through PowerShell.
 
-It all started when my child kept watching too much YouTube on their mobile device. I needed a way to block YouTube for few minutes on the device each time.
+It all started when my kid kept watching too much YouTube on their mobile device. I needed a way to block YouTube for few minutes on the device each time.
 
 The router provides options to setup access control through rules and schedules however updating the access rule schedule every single time from the router management page was very tedious process. 
 
